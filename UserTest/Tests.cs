@@ -21,7 +21,9 @@ namespace OnlineShopTests
             string phone = "1234567890";
             string street = "123 Test Street";
             string city = "Test City";
+#
 
+              
             // Act
             User user = new User(username, password, email, phone, street, city);
 
