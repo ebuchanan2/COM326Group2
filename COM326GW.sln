@@ -5,7 +5,7 @@ VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "COM326GW", "COM326GW\COM326GW.csproj", "{FD48EEC7-E3EE-4C27-86DE-95C5D7E0C490}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemTests", "UserTest\SystemTests.csproj", "{636FA408-907E-49A4-82A8-863E1070F335}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SystemTests", "UserTest\SystemTests.csproj", "{636FA408-907E-49A4-82A8-863E1070F335}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
